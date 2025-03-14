@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://linvzo.csgad.com/Uqq/sitemap.xml.gz
